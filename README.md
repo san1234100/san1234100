@@ -22,6 +22,5 @@
 
 Thanks for stopping by! Let's build the web together! 🌐✨
 
-![Profile Views](https://gpvc.arturio.dev/san1234100)
 
 
