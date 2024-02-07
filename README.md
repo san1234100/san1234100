@@ -20,10 +20,8 @@
 - 🤝 Open to collaboration and eager to contribute to meaningful projects.
 - 🚀 Actively seeking opportunities to learn, grow, and make a positive impact in the web development community.
 
-#### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=san1234100&show_icons=true&hide_border=true)
-
 Thanks for stopping by! Let's build the web together! 🌐✨
 
+![Profile Views](https://gpvc.arturio.dev/san1234100)
 
 
