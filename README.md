@@ -4,7 +4,7 @@
 - 🌱 Currently learning the latest web technologies and staying curious about the ever-evolving world of coding.
 
 ## 💻 Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, bootstrap,Tailwindcss,Js DOM
+- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwindcss, Js DOM
 - 📁 Database: MySql
 - 🔧 Tools: VS Code, Git
 - 🚀 Currently exploring:Fetch Api
