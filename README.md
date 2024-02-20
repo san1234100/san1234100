@@ -5,6 +5,7 @@
 
 ## 💻 Tech Stack
 - 🌐 Frontend: HTML, CSS, JavaScript, bootstrap,Tailwindcss,Js DOM
+- 📁 Database: MySql
 - 🔧 Tools: VS Code, Git
 - 🚀 Currently exploring:Fetch Api
 
@@ -21,6 +22,4 @@
 - 🚀 Actively seeking opportunities to learn, grow, and make a positive impact in the web development community.
 
 Thanks for stopping by! Let's build the web together! 🌐✨
-
-
 
