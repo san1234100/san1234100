@@ -4,9 +4,9 @@
 - 🌱 Currently learning the latest web technologies and staying curious about the ever-evolving world of coding.
 
 ## 💻 Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript
+- 🌐 Frontend: HTML, CSS, JavaScript, bootstrap,Tailwindcss,Js DOM
 - 🔧 Tools: VS Code, Git
-- 🚀 Currently exploring: bootstrap,Tailwindcss,Js DOM
+- 🚀 Currently exploring:Fetch Api
 
 ## 🌈 Fun Facts
 - 🚀 Aspiring astronaut turned coder – because exploring the web is the next best thing!
