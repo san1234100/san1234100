@@ -4,10 +4,11 @@
 - 🌱 Currently learning the latest web technologies and staying curious about the ever-evolving world of coding.
 
 ## 💻 Tech Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwindcss, Js DOM, Fetch Api 
+- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwindcss, Js DOM, Fetch Api ,React Js, Rest API
+- 🌐 Backend: Java,Node Js,Express Js
 - 📁 Database: MySql
 - 🔧 Tools: VS Code, Git
-- 🚀 Currently exploring:React Js
+- 🚀 Currently exploring: Mongo Db
 
 ## 🌈 Fun Facts
 - 🚀 Aspiring astronaut turned coder – because exploring the web is the next best thing!
